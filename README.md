@@ -3,5 +3,7 @@
 
 # 디렉터리 구조
 Project
-│  App.js
-│  style.css
+
+ㅣ  App.js
+
+ㅣ  style.css
